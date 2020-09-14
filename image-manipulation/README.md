@@ -14,3 +14,9 @@ Use the Python Imaging Library to do the following to a batch of images:
 - Resize an image
 - Save an image in a specific format in a separate directory 
 ---
+
+## Readings
+- [Built-In Libraries vs. External Libraries](https://github.com/yadav-aman/python-reference/blob/master/image-manipulation/Built-In_Libraries_vs_External_Libraries.md)
+- [What is an API?](https://github.com/yadav-aman/python-reference/blob/master/image-manipulation/What_is_an_API.md)
+- [How to Make Sense of an API?](https://github.com/yadav-aman/python-reference/blob/master/image-manipulation/How_to_make_sense_of_an_API.md)
+- [How to Use PIL for Working With Images](https://github.com/yadav-aman/python-reference/blob/master/image-manipulation/How_to_use_PIL_for_working_with_images.md)
