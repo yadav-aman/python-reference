@@ -20,3 +20,5 @@ Use the Python Imaging Library to do the following to a batch of images:
 - [What is an API?](https://github.com/yadav-aman/python-reference/blob/master/image-manipulation/What_is_an_API.md)
 - [How to Make Sense of an API?](https://github.com/yadav-aman/python-reference/blob/master/image-manipulation/How_to_make_sense_of_an_API.md)
 - [How to Use PIL for Working With Images](https://github.com/yadav-aman/python-reference/blob/master/image-manipulation/How_to_use_PIL_for_working_with_images.md)
+
+Source [Google IT Automation with Python - Coursrea](https://www.coursera.org/professional-certificates/google-it-automation)
