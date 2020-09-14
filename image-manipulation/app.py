@@ -4,7 +4,7 @@ from os import listdir, chdir, rename
 
 def transform(files):
     for file in files:
-        new_name = file+'.jpeg' # As original files didn't have any extention
+        new_name = file+'.jpeg' # As original files didn't had any extention
         """
         For each file:
         1. Rotate the image 90° clockwise
