@@ -17,14 +17,14 @@ The reviews are stored in text files in the local disk. Your script should open 
 For this lab, the service is running on the same machine, and you can actually look at how all of it is implemented, if you want.  But you don't need to change the service implementation to complete the exercise.
 
 # Readings
-- [Web Applications and Services]()
-- [Data Serialization]()
-- [Data Serialization Formats]()
-- [More About JSON]()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Web Applications and Services](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r1.md)
+- [Data Serialization](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r2.md)
+- [Data Serialization Formats](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r3.md)
+- [More About JSON](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r4.md)
+- [](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r5.md)
+- [](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r6.md)
+- [](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r7.md)
+- [](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r8.md)
+- [](https://github.com/yadav-aman/python-reference/blob/master/python-web-requests/r9.md)
 
 Source [Google IT Automation with Python - Coursrea](https://www.coursera.org/professional-certificates/google-it-automation)
