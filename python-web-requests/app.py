@@ -2,7 +2,7 @@
 import os
 import requests
 
-os.chdir('/data/feedback')
+os.chdir('/data')
 
 dictionary = {"title": "", "name": "", "date": "", "feedback": ""}
 
